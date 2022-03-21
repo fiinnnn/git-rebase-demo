@@ -9,7 +9,7 @@ const SPACE: &str = " ";
 
 fn main() {
     println!(
-        "{}",
-        H,
+        "{}{}",
+        H, E,
     );
 }
