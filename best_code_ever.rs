@@ -9,7 +9,7 @@ const SPACE: &str = " ";
 
 fn main() {
     println!(
-        "{}{}{}{}{}{}{}{}{}",
-        H, E, L, L, O, SPACE, W, O, R
+        "{}{}{}{}{}{}{}{}{}{}",
+        H, E, L, L, O, SPACE, W, O, R, L
     );
 }
